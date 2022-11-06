@@ -1,0 +1,21 @@
+Tutor: Roel Lefeven (= Rul Lefeven)
+Abgabe in Gruppen von <= drei
+
+vielleicht stattdessen INF
+
+Examples where floating point operations mattered:
+- Vancouver Stockexchange:
+    5.48 -> 5.50 or 5.45
+    in Stockexchange the precision matters -> Stockexchange lost loads of money
+
+- Patriot defense system:
+    Missile with 1/10 sec time precision
+    1/10 -binary-> 0.0001100110011.....
+    Missile was off by 0.5 miles....
+
+- Arianna 5:
+    Rocket accumulated mistakes -> crached
+
+- German election:
+    Green party had 5% -> got into parliament :)
+    Turned out to be a rounding error -> Green not in parliament :(
